@@ -22,10 +22,11 @@ Backend developer at [Brewly Store](https://github.com/Brewly-Store). Founder of
 
 ## Selected work
 
-| Project | What it does | Stack |
-|---|---|---|
-| [english-app](https://github.com/0x-mythos/english-app) | Telegram Mini App for learning English: placement test, FSRS flashcards, AI conversation with corrections, and grammar drills built from your own mistakes. | Next.js, Supabase, LLM |
-| [expense-approval](https://github.com/0x-mythos/expense-approval) | Routes expense claims to the right approver by category. An advisory AI review summarises each claim and flags inconsistencies, and the app keeps working if the AI is down. | FastAPI, PostgreSQL, HTMX, LLM |
+**[english-app](https://github.com/0x-mythos/english-app)** · Next.js, Supabase, LLM<br>
+Telegram Mini App for learning English: placement test, FSRS flashcards, AI conversation with corrections, and grammar drills built from your own mistakes.
+
+**[expense-approval](https://github.com/0x-mythos/expense-approval)** · FastAPI, PostgreSQL, HTMX, LLM<br>
+Routes expense claims to the right approver by category. An advisory AI review summarises each claim and flags inconsistencies, and the app keeps working if the AI is down.
 
 <details open>
 <summary><h2>Stack</h2></summary>
@@ -43,13 +44,13 @@ Backend developer at [Brewly Store](https://github.com/Brewly-Store). Founder of
 <details>
 <summary><h2>Experience</h2></summary>
 
-**Founder and AI Engineer, Opsy Labs** (2025 to present)
+**Founder and AI Engineer, Opsy Labs** (2025 to present)<br>
 I run the studio end to end, from finding clients to launch and support. I build client websites with online booking, Telegram integration and admin panels, plus LLM chatbots and document processing.
 
-**Backend Developer, Brewly Store** (June 2026 to present)
+**Backend Developer, Brewly Store** (June 2026 to present)<br>
 I built the e-commerce backend from scratch to MVP in a small team: REST API, authentication, Google OAuth, product catalog and transactional emails, on TypeScript, Hono and Cloudflare Workers.
 
-**Community and Operations Manager, Solus Group** (April to December 2025)
+**Community and Operations Manager, Solus Group** (April to December 2025)<br>
 I managed Web3 ambassador programs across communities totalling about 500k members, and automated repetitive work with Python scripts.
 
 </details>
