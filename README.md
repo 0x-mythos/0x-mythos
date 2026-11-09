@@ -10,12 +10,12 @@ Backend developer at [Brewly Store](https://github.com/Brewly-Store). Founder of
 
 | Project | What it does | Stack |
 |---|---|---|
-| [english-app](https://github.com/0x-mythos/english-app) | Telegram Mini App for learning English: placement test, FSRS flashcards, AI conversation with corrections, and grammar drills built from your own mistakes. | Next.js, Supabase, Claude |
-| [expense-approval](https://github.com/0x-mythos/expense-approval) | Routes expense claims to the right approver by category. An advisory AI review summarises each claim and flags inconsistencies, and the app keeps working if the AI is down. | FastAPI, PostgreSQL, HTMX, Claude |
+| [english-app](https://github.com/0x-mythos/english-app) | Telegram Mini App for learning English: placement test, FSRS flashcards, AI conversation with corrections, and grammar drills built from your own mistakes. | Next.js, Supabase, LLM |
+| [expense-approval](https://github.com/0x-mythos/expense-approval) | Routes expense claims to the right approver by category. An advisory AI review summarises each claim and flags inconsistencies, and the app keeps working if the AI is down. | FastAPI, PostgreSQL, HTMX, LLM |
 
 ## What I work with
 
-**AI:** Claude and OpenAI APIs, LangGraph, RAG, n8n, Make
+**AI:** LLM APIs, LangGraph, RAG, n8n, Make
 
 **Backend:** Python, FastAPI, TypeScript, Hono, Cloudflare Workers, PostgreSQL, Redis, Docker
 
